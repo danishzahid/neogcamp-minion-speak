@@ -1,0 +1,51 @@
+h1 {
+    background-color: navy;
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    line-height: 200%;
+    color: yellow;
+}
+
+footer {
+    background-color: navy;
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    line-height: 200%;
+    color: yellow;
+}
+
+a {
+    text-decoration: none;
+    color: yellow;
+
+}
+
+a:hover {
+    color: white;
+}
+
+#btn-translate {
+    margin: 1rem;
+    border: 2px solid black;
+    padding: 0.5rem;
+    background-color: brown;
+    color: white;
+    font-weight: bold;
+}
+#btn-translate:hover{
+    color: black;
+    background-color: brown;
+    border: 2px solid white;
+}
+
+.container {
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+    background-color:  yellow
+    ;
+}
